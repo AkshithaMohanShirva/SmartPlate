@@ -1,4 +1,3 @@
-SmartPlate
 Welcome to the repository containing our comprehensive analysis and presentation on Smart Plate, crafted for the Digital Product Management class led by Professor Vasant Gondhalekar. This project was a collaborative effort to design an innovative meal kit delivery service tailored to modern dietary needs and preferences.
 
 Presentation Overview
